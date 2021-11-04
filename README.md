@@ -18,7 +18,7 @@ Each study contains a summary estimate of the seroprevalence of the entire popul
 A study may also contain several stratifying subgroup estimates such as age and sex. We extract subgroup estimates for age, sex, race, ethnicity, COVID-19 vaccination status, statistical analysis (population, test adjustment), and geographical area in general population sample frames. We document other subgroups present in a given study through the ‘subgroup variables available’ field. Our full list of subgroup options can be found [here](https://docs.google.com/document/d/16FUS1fr5F_KpWHTznXiprzXZB_hDr8z3URhh9Zr78M8/edit?usp=sharing). For more information on our general population sample frame classification, please visit [here](https://docs.google.com/document/d/16FUS1fr5F_KpWHTznXiprzXZB_hDr8z3URhh9Zr78M8/edit?usp=sharing). No subgroup estimates are extracted from special population studies. 
 
 ### Additional Information
-Please see our [Data Dictionary](https://airtable.com/shr9XzggGpYFqMdJF) for explanations of our variables, data types, and descriptions as well as insight into how our data is collected by our research team.
+Please see our [Data Dictionary](https://airtable.com/shrz0CXeuUxlbd0Rm) for explanations of our variables, data types, and descriptions as well as insight into how our data is collected by our research team.
 
 In order to keep up to date with important changes to our dataset, please consult our [Change Log](https://airtable.com/shrxpAlF6v0LeRYkA/tblC6jj904WXUzwVY) regularly.
 
